@@ -1,0 +1,14 @@
+C:\Users\Nadia\Desktop\cs\bin\Debug\net9.0\..exe
+C:\Users\Nadia\Desktop\cs\bin\Debug\net9.0\..deps.json
+C:\Users\Nadia\Desktop\cs\bin\Debug\net9.0\..runtimeconfig.json
+C:\Users\Nadia\Desktop\cs\bin\Debug\net9.0\..dll
+C:\Users\Nadia\Desktop\cs\bin\Debug\net9.0\..pdb
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\..AssemblyInfoInputs.cache
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\..AssemblyInfo.cs
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\..csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\..dll
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\refint\..dll
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\..pdb
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\..genruntimeconfig.cache
+C:\Users\Nadia\Desktop\cs\obj\Debug\net9.0\ref\..dll
