@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nadia\\Desktop\\cs\\..csproj",
+      "projectUniqueName": "C:\\Users\\Nadia\\Documents\\GitHub\\CS-practice-code\\..csproj",
       "projectName": ".",
-      "projectPath": "C:\\Users\\Nadia\\Desktop\\cs\\..csproj",
+      "projectPath": "C:\\Users\\Nadia\\Documents\\GitHub\\CS-practice-code\\..csproj",
       "packagesPath": "C:\\Users\\Nadia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nadia\\Desktop\\cs\\obj\\",
+      "outputPath": "C:\\Users\\Nadia\\Documents\\GitHub\\CS-practice-code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nadia\\AppData\\Roaming\\NuGet\\NuGet.Config"
