@@ -75,7 +75,7 @@ public class Budget
                 Console.WriteLine($"- {expense:C}");
                 expensesSummary += expense;
             }
-            Console.WriteLine($"Suma wydatków: {expensesSummary:C}");
+            Console.WriteLine($"Expenses summary: {expensesSummary:C}");
         }
     }
 }
