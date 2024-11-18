@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nadia\\Documents\\GitHub\\CS-practice-code\\..csproj": {}
+    "C:\\Users\\Seweryn\\OneDrive\\Pulpit\\MY-REPO'S\\CS-practice-code\\..csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nadia\\Documents\\GitHub\\CS-practice-code\\..csproj": {
+    "C:\\Users\\Seweryn\\OneDrive\\Pulpit\\MY-REPO'S\\CS-practice-code\\..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadia\\Documents\\GitHub\\CS-practice-code\\..csproj",
+        "projectUniqueName": "C:\\Users\\Seweryn\\OneDrive\\Pulpit\\MY-REPO'S\\CS-practice-code\\..csproj",
         "projectName": ".",
-        "projectPath": "C:\\Users\\Nadia\\Documents\\GitHub\\CS-practice-code\\..csproj",
-        "packagesPath": "C:\\Users\\Nadia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadia\\Documents\\GitHub\\CS-practice-code\\obj\\",
+        "projectPath": "C:\\Users\\Seweryn\\OneDrive\\Pulpit\\MY-REPO'S\\CS-practice-code\\..csproj",
+        "packagesPath": "C:\\Users\\Seweryn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Seweryn\\OneDrive\\Pulpit\\MY-REPO'S\\CS-practice-code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nadia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Seweryn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

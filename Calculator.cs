@@ -1,26 +1,54 @@
 ﻿using System;
 
-public class TestDwa
+public class HelloWorld
 {
-
-    static void budget()
+    public static void Main(string[] args)
     {
-        Console.WriteLine("-----Wybierz opcje-----");
-        Console.WriteLine("1. Podaj przychód");
-        Console.WriteLine("2. Podaj wydatki");
-        Console.WriteLine("3. Pokaż rozliczenie");
-        Console.WriteLine("Wybierz opcje (1, 2, 3): ");
-        int op = Convert.ToInt32(Console.Read());
+        while (true) 
+        {
+            
+                Console.Write("Enter first number: ");
+                int num1 = Convert.ToInt32(Console.ReadLine());
 
-        
-    static void przychod()
-    {
-if(op == 1)
-{
+                Console.Write("Enter second number: ");
+                int num2 = Convert.ToInt32(Console.ReadLine());
 
-}
+                Console.Write("Enter operator (+, -, *, /): ");
+                string op = Console.ReadLine();
+
+                int result = 0;
+
+                if (op == "+")
+                {
+                    result = num1 + num2;
+                }
+                else if (op == "-")
+                {
+                    result = num1 - num2;
+                }
+                else if (op == "*")
+                {
+                    result = num1 * num2;
+                }
+                else if (op == "/")
+                {
+                    if (num2 == 0)
+                    {
+                        Console.WriteLine("Error: Division by zero is not allowed. Please try again.");
+                        continue; 
+                    }
+                    result = num1 / num2;
+                }
+                else
+                {
+                    Console.WriteLine("Error: Invalid operator. Please use +, -, *, or /.");
+                    continue; 
+                }
+
+                Console.WriteLine("Result: " + result);
+                break; 
+            }
+            
+      
     }
-}
-   
- 
 }
